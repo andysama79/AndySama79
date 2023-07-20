@@ -2,7 +2,7 @@
 
 **`Tech Enthusiast (Developer/Musician)`**
 
-Please Introduce Yourself. Here.
+I am a Computer Science undergrad with specialization in Artificial Intelligence. I love building things from the ground up. My interests are mostly Deep Learning, in general, and Convolutional Neural Networks (CNNs), in particular. My love for music is undying and I hope to combine my hobbies someday.
 
 ---
 
@@ -50,5 +50,9 @@ Please Introduce Yourself. Here.
 ---
 
 ### 📊 Stats
-[![Arnab Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndySama79&show_icons=true&theme=monokai&hide_title=true&hide_rank=true&card_width=350&line_height=29.2)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndySama79&theme=monokai&hide_title=true&layout=donut&hide=html,jupyter%20notebook,vim%20script,makefile)
+[![Arnab Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndySama79&show_icons=true&theme=monokai&hide_title=true&hide_rank=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndySama79&theme=monokai&hide_title=true&layout=donut&hide=html,jupyter%20notebook,vim%20script,makefile) -->
+
+<details>
+  <summary><h3>👨‍💻 Arnab's Journey into the Unknown</h3></summary>
+    I got a laptop when I was quite young. I had seen computers before, the big ol' CR displays, but I was so fascinated by the small form-factor of the laptop, that I could not resist but ask my mother, "Who made this?". She answered, "Probably, a Computer Engineer." And here I am, pursuing my childhood dream - to be surrounded by tech. Although, this dream of mine has had several revisions, the basis remains the same. Life is short, so get out there, chase your dreams! Cheers 🍻!
