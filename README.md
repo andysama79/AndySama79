@@ -50,5 +50,5 @@ Please Introduce Yourself. Here.
 ---
 
 ### 📊 Stats
-[![Arnab Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndySama79&show_icons=true&theme=monokai&hide_title=true&hide_rank=true&card_width=350&line_height=27)](https://github.com/anuraghazra/github-readme-stats)
+[![Arnab Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndySama79&show_icons=true&theme=monokai&hide_title=true&hide_rank=true&card_width=350&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndySama79&theme=monokai&hide_title=true&layout=donut&hide=html,jupyter%20notebook,vim%20script,makefile)
