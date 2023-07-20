@@ -98,14 +98,24 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-export PATH="/usr/local/cuda-11.8/bin${PATH:+:${PATH}}"
-export LD_LIBRARY_PATH="export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}"
+#export PATH="/usr/local/cuda-11.8/bin${PATH:+:${PATH}}"
+export PATH="/usr/local/cuda-11.8/bin:$PATH"
+#export LD_LIBRARY_PATH="export LD_LIBRARY_PATH=/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}"
+export LD_LIBRARY_PATH="/usr/local/cuda-11.8/lib64:$LD_LIBRARY_PATH"
+# export LD_LIBRARY_PATH="/home/schecter/miniconda3/envs/neurax/lib/python3.10/site-packages/nvidia/cuda_runtime/lib/:$LD_LIBRARY_PATH"
+# export LD_LIBRARY_PATH="/home/schecter/miniconda3/envs/neurax/lib/python3.10/site-packages/tensorrt/:$LD_LIBRARY_PATH"
 
+export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:$(go env GOPATH)/bin
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+# my aliases
+alias pastel='starship preset pastel-powerline > ~/.config/starship.toml'
+alias nf='~starship preset nerd-font-symbols > ~/.config/starship.toml'
+alias g='goto'
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
@@ -150,3 +160,43 @@ unset __conda_setup
 
 #[ -f "/home/schecter/.ghcup/env" ] && source "/home/schecter/.ghcup/env" # ghcup-env
 [ -f "/home/schecter/.ghcup/env" ] && source "/home/schecter/.ghcup/env" # ghcup-env
+. "$HOME/.cargo/env"
+
+# my functions
+function goto () {
+    case $1 in
+        "uni")
+            cd /home/schecter/Code/university/
+            ;;
+        "research")
+            cd /home/schecter/Code/research/
+            ;;
+        "pl")
+            cd /home/schecter/Code/proglang/
+            ;;
+        "tech")
+            cd /home/schecter/Code/technology/
+            ;;
+        "cp")
+            cd /home/schecter/Code/cp/
+    esac
+}
+
+# >>> juliaup initialize >>>
+
+# !! Contents within this block are managed by juliaup !!
+
+case ":$PATH:" in
+    *:/home/schecter/.juliaup/bin:*)
+        ;;
+
+    *)
+        export PATH=/home/schecter/.juliaup/bin${PATH:+:${PATH}}
+        ;;
+esac
+
+# <<< juliaup initialize <<<
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
