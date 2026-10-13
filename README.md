@@ -48,13 +48,3 @@ Backend Software Engineer with experience designing event-driven, distributed sy
 ### 📊 Stats
 [![Arnab Dey's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndySama79&show_icons=true&theme=monokai&hide_title=true&hide_rank=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndySama79&theme=monokai&hide_title=true&layout=donut&hide=html,jupyter%20notebook,vim%20script,makefile) -->
-
-<details>
-  <summary><h3>👨‍💻 Embracing the Tech Odyssey: A Journey from Childhood Wonder to Github Dreams 🚀🔧</h3></summary>
-    Embark on a nostalgic journey with me as I recall the moment I laid eyes on my first laptop, captivated by its sleek form factor. "Who made this?" I asked my mother, and her simple reply, "Probably, a Computer Engineer," ignited a spark that has fueled my tech dreams ever since.
-
-From the colossal CR displays of the past to the compact marvels of today, my fascination with technology has only grown. Now, as I navigate the expansive world of GitHub, I'm reminded that my childhood dream has evolved but retained its core essence.
-
-Life is a fleeting adventure, and I've chosen to seize it by immersing myself in the realm of tech. Join me on GitHub, where code becomes poetry, dreams take shape, and the pursuit of innovation knows no bounds. 🌐💻
-
-Cheers to chasing dreams and embracing the ever-evolving landscape of technology! 🍻 #TechDreams #GitHubAdventures #CodePoetry
