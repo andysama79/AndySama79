@@ -1,16 +1,6 @@
 #   🏄 Arnab Dey
 
-**`Code Symphony (Developer/Musician) 🎵💻`**
-
-As a Computer Science undergrad with a fervor for building things from the ground up, my journey has found its rhythm in the realms of Artificial Intelligence. Specializing in the captivating world of Deep Learning, my heart beats for the intricacies of Convolutional Neural Networks (CNNs), where innovation and technology converge.
-
-Yet, amidst the lines of code and layers of neural networks, my undying love for music remains a guiding melody. The dream? To harmonize my technical prowess with my musical soul, creating a symphony that transcends boundaries.
-
-Join me on this journey as I navigate the intricate dance of algorithms and the expressive language of music. From crafting code to composing melodies, the intersection of my passions is where innovation and artistry coalesce.
-
-Here's to the pursuit of dreams that resonate across the binary and musical spectrums alike! 🚀🎶 #AIInnovation #CodeAndMusic #TechHarmony
-
----
+Backend Software Engineer with experience designing event-driven, distributed systems for high-volume catalog ingestion and import-export workflows. At Wayfair, contributed to supplier-facing tools used by 7,000+ suppliers across 82,000+ SKUs. Builds Java/Spring Boot services with GCP Pub/Sub, Kubernetes, PostgreSQL, GraphQL, and reactive APIs; strongest in platform engineering, asynchronous processing, reliability, and developer-facing infrastructure.
 
 ### 💼 Languages and Tools
 
